@@ -1,2 +1,2 @@
-# IOS-Learning
-Learning IOS using Swift
+# IOS-Project
+Creating great apps using Swift
