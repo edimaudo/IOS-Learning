@@ -16,20 +16,20 @@ newarray.count
 newarray.append(10)
 newarray.removeLast()
 newarray
-newarray.removeAtIndex(2)
+//newarray.removeAtIndex(2)
 newarray
 newarray.sort()
 
 //challenge 1
 var testarray = [3,2,4]
-testarray.removeAtIndex(1)
+//testarray.removeAtIndex(1)
 testarray.append(testarray[0]*testarray[1])
 testarray
 
 var newdict = ["computer": 1, "laptop": 2, "tablet": 3]
 newdict["computer"]
 newdict["smartphone"]=4
-newdict.removeValueForKey("computer")
+//newdict.removeValueForKey("computer")
 newdict
 
 //challenge 2
@@ -90,31 +90,35 @@ for _ in 0...4 {
 }
 print(secondForLoop)
 
-for var i = 1; i <= 10; i++ {
-    print(i)
-}
+//for var i = 1; i <= 10; i++ {
+//    print(i)
+//}
 
-for var i = 1; i <= 20; i++ {
-    if i % 2 == 0 {
-        print (i)
-    }
-}
+//for var i = 1; i <= 20; i++ {
+//    if i % 2 == 0 {
+//        print (i)
+//    }
+//}
 
 var temparray:[Double] = [1,2,3]
 for value in temparray{
     print (value)
 }
 
-for (index,value) in temparray.enumerate(){
-    temparray[index] = value + 1
-}
+//for (index,value) in temparray.enumerate(){
+//    temparray[index] = value + 1
+//}
 
-for (index, value) in temparray.enumerate(){
-    temparray[index] = value / 2
-}
+//for (index, value) in temparray.enumerate(){
+//    temparray[index] = value / 2
+//}
 
 
-//prime number
+//other challenge
+var num1 = 15
+var num2 = 5
+var num1_num2 = num1 + num2
+
 
 
 
