@@ -1,2 +1,2 @@
 # IOS-Project
-Creating great apps using Swift
+Creating great IOS apps for fun using Swift
