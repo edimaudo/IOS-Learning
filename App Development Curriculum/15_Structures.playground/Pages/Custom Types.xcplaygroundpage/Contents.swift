@@ -27,7 +27,7 @@ let song = Song(title: "No, no, no", artist: "Fizz", duration: 150)
 
 
 
-
+let song2 = Song(title:"Layla", artist:"Eric Clapton", duration: 130)
 
 //: Next, learn more about the properties of a struct.
 //:
